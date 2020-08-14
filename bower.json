@@ -1,0 +1,17 @@
+{
+  "name": "mystore_admin",
+  "version": "1.0.0",
+  "authors": [
+    "Kien Tran <kientmc0112@gmail.com>"
+  ],
+  "description": "MyStore Admin Display - Bower",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/kientmc0112/mystore_admin.git",
+  "ignore": [
+    "README.md"
+  ]
+}
